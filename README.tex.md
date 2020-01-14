@@ -11,5 +11,5 @@ $f(x)={\begin{cases}1&0<x \leq 2\\f(x-1)+f(x-2)&x>2\end{cases}$
 
 # steps
 * Install github app `TeXify` in your account
-* Add \*.tex.md file in repo (eg this file)
-* See rendered output in corresponding \*.md (eg README.md)
+* Add foo.tex.md file in repo (eg this file)
+* See rendered output in corresponding foo.md (eg README.md)
