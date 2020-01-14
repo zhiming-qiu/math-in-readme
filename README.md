@@ -11,5 +11,5 @@ Test rendering math formula in github readme.md
 
 # steps
 * Install github app `TeXify` in your account
-* Add \*.tex.md file in repo (eg this file)
-* See rendered output in corresponding \*.md (eg README.md)
+* Add foo.tex.md file in repo (eg this file)
+* See rendered output in corresponding foo.md (eg README.md)
