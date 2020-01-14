@@ -5,4 +5,6 @@ Test how to render math formula in github readme.md
 
 <img src="/tex/cf29ffad63dddccd8e14636dbf5acb5c.svg?invert_in_darkmode&sanitize=true" align=middle width=50.61359324999999pt height=28.670654099999997pt/>
 
-<img src="/tex/757b63a4ad97ee85323424bd83733842.svg?invert_in_darkmode&sanitize=true" align=middle width=67.12319789999998pt height=41.24212950000001pt/>
+<img src="/tex/dcf5d8451077cb02c64507dc94349b31.svg?invert_in_darkmode&sanitize=true" align=middle width=76.25563934999998pt height=41.24212950000001pt/>
+
+<img src="/tex/9eb831fea552f1804b92b0093d4b525e.svg?invert_in_darkmode&sanitize=true" align=middle width=280.7300628pt height=41.24212950000001pt/>
